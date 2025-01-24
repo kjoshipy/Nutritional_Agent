@@ -1,2 +1,2 @@
 # Nutritional_Agent
-LLM Agent
+LLM Agent to provide nutritional information about food from pictures.
